@@ -1,2 +1,2 @@
 # Hanged
-It's a play of hanged
+It's a game of hanged
